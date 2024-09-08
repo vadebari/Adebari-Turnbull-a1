@@ -1,2 +1,2 @@
-# Adebari-Turnbull-a1
-Assignment one repository for Victoria Adebari and Owen Turnbull
+# Assignment 1
+Victoria Adebari and Owen Turnbull
